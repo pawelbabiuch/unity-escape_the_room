@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 3ecbcff46145bb44c94169fc0fda53a6
+timeCreated: 1512670273
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Doniczka
+    100006: Drzwi
+    100008: Framuga
+    100010: Kosz
+    100012: Krzeslo
+    100014: Krzeslo_Nogi
+    100016: Lampa_Kabel
+    100018: Lampa_Klosz
+    100020: Lampa_Wentylator
+    100022: Lozko_Koldra
+    100024: Lozko_Konstrukcja
+    100026: Monitory_Ekran
+    100028: Monitory_Obudowa
+    100030: Podloga
+    100032: Poduszka
+    100034: Roslina
+    100036: Sciana_Lewa
+    100038: Sciana_Prawa
+    100040: //RootNode
+    400000: Box001
+    400002: Box002
+    400004: Doniczka
+    400006: Drzwi
+    400008: Framuga
+    400010: Kosz
+    400012: Krzeslo
+    400014: Krzeslo_Nogi
+    400016: Lampa_Kabel
+    400018: Lampa_Klosz
+    400020: Lampa_Wentylator
+    400022: Lozko_Koldra
+    400024: Lozko_Konstrukcja
+    400026: Monitory_Ekran
+    400028: Monitory_Obudowa
+    400030: Podloga
+    400032: Poduszka
+    400034: Roslina
+    400036: Sciana_Lewa
+    400038: Sciana_Prawa
+    400040: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Doniczka
+    2300006: Drzwi
+    2300008: Framuga
+    2300010: Kosz
+    2300012: Krzeslo
+    2300014: Krzeslo_Nogi
+    2300016: Lampa_Kabel
+    2300018: Lampa_Klosz
+    2300020: Lampa_Wentylator
+    2300022: Lozko_Koldra
+    2300024: Lozko_Konstrukcja
+    2300026: Monitory_Ekran
+    2300028: Monitory_Obudowa
+    2300030: Podloga
+    2300032: Poduszka
+    2300034: Roslina
+    2300036: Sciana_Lewa
+    2300038: Sciana_Prawa
+    3300000: Box001
+    3300002: Box002
+    3300004: Doniczka
+    3300006: Drzwi
+    3300008: Framuga
+    3300010: Kosz
+    3300012: Krzeslo
+    3300014: Krzeslo_Nogi
+    3300016: Lampa_Kabel
+    3300018: Lampa_Klosz
+    3300020: Lampa_Wentylator
+    3300022: Lozko_Koldra
+    3300024: Lozko_Konstrukcja
+    3300026: Monitory_Ekran
+    3300028: Monitory_Obudowa
+    3300030: Podloga
+    3300032: Poduszka
+    3300034: Roslina
+    3300036: Sciana_Lewa
+    3300038: Sciana_Prawa
+    4300000: Monitory_Ekran
+    4300002: Monitory_Obudowa
+    4300004: Doniczka
+    4300006: Sciana_Prawa
+    4300008: Poduszka
+    4300010: Podloga
+    4300012: Krzeslo
+    4300014: Lozko_Koldra
+    4300016: Lampa_Klosz
+    4300018: Roslina
+    4300020: Lampa_Wentylator
+    4300022: Drzwi
+    4300024: Box002
+    4300026: Sciana_Lewa
+    4300028: Lampa_Kabel
+    4300030: Kosz
+    4300032: Box001
+    4300034: Krzeslo_Nogi
+    4300036: Lozko_Konstrukcja
+    4300038: Framuga
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

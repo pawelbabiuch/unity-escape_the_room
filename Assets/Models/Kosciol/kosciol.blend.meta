@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 7da16e1e107fe7944a52b2cb20a9318d
+timeCreated: 1512670276
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ambona_M___wnica
+    100002: Ambona_Podest
+    100004: Drzwi
+    100006: Framuga
+    100008: Konfesjonal
+    100010: //RootNode
+    100012: Krzyz1
+    100014: Krzyz2
+    100016: Lawka1_Klecznik
+    100018: Lawka1_Siedzisko
+    100020: Lawka2_Klecznik
+    100022: Lawka2_Siedzisko
+    100024: Lawka3_Klecznik
+    100026: Lawka3_Siedzisko
+    100028: Podloga
+    100030: Sciana_Lewa
+    100032: Sciana_Prawa
+    400000: Ambona_M___wnica
+    400002: Ambona_Podest
+    400004: Drzwi
+    400006: Framuga
+    400008: Konfesjonal
+    400010: //RootNode
+    400012: Krzyz1
+    400014: Krzyz2
+    400016: Lawka1_Klecznik
+    400018: Lawka1_Siedzisko
+    400020: Lawka2_Klecznik
+    400022: Lawka2_Siedzisko
+    400024: Lawka3_Klecznik
+    400026: Lawka3_Siedzisko
+    400028: Podloga
+    400030: Sciana_Lewa
+    400032: Sciana_Prawa
+    2300000: Ambona_M___wnica
+    2300002: Ambona_Podest
+    2300004: Drzwi
+    2300006: Framuga
+    2300008: Konfesjonal
+    2300010: Krzyz1
+    2300012: Krzyz2
+    2300014: Lawka1_Klecznik
+    2300016: Lawka1_Siedzisko
+    2300018: Lawka2_Klecznik
+    2300020: Lawka2_Siedzisko
+    2300022: Lawka3_Klecznik
+    2300024: Lawka3_Siedzisko
+    2300026: Podloga
+    2300028: Sciana_Lewa
+    2300030: Sciana_Prawa
+    3300000: Ambona_M___wnica
+    3300002: Ambona_Podest
+    3300004: Drzwi
+    3300006: Framuga
+    3300008: Konfesjonal
+    3300010: Krzyz1
+    3300012: Krzyz2
+    3300014: Lawka1_Klecznik
+    3300016: Lawka1_Siedzisko
+    3300018: Lawka2_Klecznik
+    3300020: Lawka2_Siedzisko
+    3300022: Lawka3_Klecznik
+    3300024: Lawka3_Siedzisko
+    3300026: Podloga
+    3300028: Sciana_Lewa
+    3300030: Sciana_Prawa
+    4300000: Framuga
+    4300002: Sciana_Prawa
+    4300004: Drzwi
+    4300006: Lawka3_Siedzisko
+    4300008: Sciana_Lewa
+    4300010: Ambona_Podest
+    4300012: Lawka1_Klecznik
+    4300014: Lawka3_Klecznik
+    4300016: Lawka2_Klecznik
+    4300018: Lawka1_Siedzisko
+    4300020: Lawka2_Siedzisko
+    4300022: Ambona_M___wnica
+    4300024: Krzyz2
+    4300026: Krzyz1
+    4300028: Konfesjonal
+    4300030: Podloga
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

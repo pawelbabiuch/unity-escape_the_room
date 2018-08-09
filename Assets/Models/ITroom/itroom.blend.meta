@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 1a96dc44751c0f447965d7c5a56eaf32
+timeCreated: 1515503200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Biurko1
+    100002: Biurko2
+    100004: Biurko2_001
+    100006: Drzwi
+    100008: Framuga
+    100010: //RootNode
+    100012: Klawiatura1
+    100014: Klawiatura2
+    100016: Klawiatura2_001
+    100018: Komputer2_000
+    100020: Komputer2_001
+    100022: Komputer2_002
+    100024: Komputer2_003
+    100026: Krzeslo
+    100028: Krzeslo_001
+    100030: Krzeslo_002
+    100032: Krzeslo_Nogi
+    100034: Krzeslo_Nogi002
+    100036: Krzeslo_Nogi002_001
+    100038: Lampa_Kabel
+    100040: Lampa_Klosz
+    100042: Lampa_Wentylator
+    100044: Monitory_Ekran
+    100046: Monitory_Ekran001
+    100048: Monitory_Ekran001_001
+    100050: Monitory_Obudowa
+    100052: Monitory_Obudowa001
+    100054: Monitory_Obudowa001_001
+    100056: Mysz1
+    100058: Mysz2
+    100060: Mysz2_001
+    100062: Podloga
+    100064: Sciana_Lewa
+    100066: Sciana_Prawa
+    100068: Szafa1
+    400000: Biurko1
+    400002: Biurko2
+    400004: Biurko2_001
+    400006: Drzwi
+    400008: Framuga
+    400010: //RootNode
+    400012: Klawiatura1
+    400014: Klawiatura2
+    400016: Klawiatura2_001
+    400018: Komputer2_000
+    400020: Komputer2_001
+    400022: Komputer2_002
+    400024: Komputer2_003
+    400026: Krzeslo
+    400028: Krzeslo_001
+    400030: Krzeslo_002
+    400032: Krzeslo_Nogi
+    400034: Krzeslo_Nogi002
+    400036: Krzeslo_Nogi002_001
+    400038: Lampa_Kabel
+    400040: Lampa_Klosz
+    400042: Lampa_Wentylator
+    400044: Monitory_Ekran
+    400046: Monitory_Ekran001
+    400048: Monitory_Ekran001_001
+    400050: Monitory_Obudowa
+    400052: Monitory_Obudowa001
+    400054: Monitory_Obudowa001_001
+    400056: Mysz1
+    400058: Mysz2
+    400060: Mysz2_001
+    400062: Podloga
+    400064: Sciana_Lewa
+    400066: Sciana_Prawa
+    400068: Szafa1
+    2300000: Biurko1
+    2300002: Biurko2
+    2300004: Biurko2_001
+    2300006: Drzwi
+    2300008: Framuga
+    2300010: Klawiatura1
+    2300012: Klawiatura2
+    2300014: Klawiatura2_001
+    2300016: Komputer2_000
+    2300018: Komputer2_001
+    2300020: Komputer2_002
+    2300022: Komputer2_003
+    2300024: Krzeslo
+    2300026: Krzeslo_001
+    2300028: Krzeslo_002
+    2300030: Krzeslo_Nogi
+    2300032: Krzeslo_Nogi002
+    2300034: Krzeslo_Nogi002_001
+    2300036: Lampa_Kabel
+    2300038: Lampa_Klosz
+    2300040: Lampa_Wentylator
+    2300042: Monitory_Ekran
+    2300044: Monitory_Ekran001
+    2300046: Monitory_Ekran001_001
+    2300048: Monitory_Obudowa
+    2300050: Monitory_Obudowa001
+    2300052: Monitory_Obudowa001_001
+    2300054: Mysz1
+    2300056: Mysz2
+    2300058: Mysz2_001
+    2300060: Podloga
+    2300062: Sciana_Lewa
+    2300064: Sciana_Prawa
+    2300066: Szafa1
+    3300000: Biurko1
+    3300002: Biurko2
+    3300004: Biurko2_001
+    3300006: Drzwi
+    3300008: Framuga
+    3300010: Klawiatura1
+    3300012: Klawiatura2
+    3300014: Klawiatura2_001
+    3300016: Komputer2_000
+    3300018: Komputer2_001
+    3300020: Komputer2_002
+    3300022: Komputer2_003
+    3300024: Krzeslo
+    3300026: Krzeslo_001
+    3300028: Krzeslo_002
+    3300030: Krzeslo_Nogi
+    3300032: Krzeslo_Nogi002
+    3300034: Krzeslo_Nogi002_001
+    3300036: Lampa_Kabel
+    3300038: Lampa_Klosz
+    3300040: Lampa_Wentylator
+    3300042: Monitory_Ekran
+    3300044: Monitory_Ekran001
+    3300046: Monitory_Ekran001_001
+    3300048: Monitory_Obudowa
+    3300050: Monitory_Obudowa001
+    3300052: Monitory_Obudowa001_001
+    3300054: Mysz1
+    3300056: Mysz2
+    3300058: Mysz2_001
+    3300060: Podloga
+    3300062: Sciana_Lewa
+    3300064: Sciana_Prawa
+    3300066: Szafa1
+    4300000: Komputer2_000
+    4300002: Podloga
+    4300004: Krzeslo
+    4300006: Szafa1
+    4300008: Sciana_Lewa
+    4300010: Framuga
+    4300012: Klawiatura2
+    4300014: Klawiatura1
+    4300016: Monitory_Obudowa001
+    4300018: Lampa_Kabel
+    4300020: Drzwi
+    4300022: Krzeslo_Nogi
+    4300024: Biurko1
+    4300026: Krzeslo_Nogi002
+    4300028: Monitory_Ekran
+    4300030: Sciana_Prawa
+    4300032: Monitory_Ekran001
+    4300034: Lampa_Wentylator
+    4300036: Monitory_Obudowa
+    4300038: Lampa_Klosz
+    4300040: Mysz2
+    4300042: Mysz1
+    4300044: Biurko2
+    4300046: Biurko2_001
+    4300048: Klawiatura2_001
+    4300050: Komputer2_001
+    4300052: Krzeslo_Nogi002_001
+    4300054: Monitory_Ekran001_001
+    4300056: Monitory_Obudowa001_001
+    4300058: Mysz2_001
+    4300060: Komputer2_003
+    4300062: Krzeslo_001
+    4300064: Krzeslo_002
+    4300066: Komputer2_002
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

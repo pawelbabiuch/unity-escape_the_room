@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 009a738971453c94fa8c18e057e21173
+timeCreated: 1512670270
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Drzwi
+    100002: Framuga
+    100004: Kanapa_Poduszka_2_2
+    100006: Kanapa_Poduszka_2_2_001
+    100008: //RootNode
+    100010: Konsoleta
+    100012: Kula_Dyskotekowa
+    100014: Kula_Dyskotekowa_Lina
+    100016: Okno
+    100018: Okno_Szyba
+    100020: Podest
+    100022: Podloga
+    100024: Sciana_Lewa
+    100026: Sciana_Prawa
+    100028: Stolik_Podstawa
+    400000: Drzwi
+    400002: Framuga
+    400004: Kanapa_Poduszka_2_2
+    400006: Kanapa_Poduszka_2_2_001
+    400008: //RootNode
+    400010: Konsoleta
+    400012: Kula_Dyskotekowa
+    400014: Kula_Dyskotekowa_Lina
+    400016: Okno
+    400018: Okno_Szyba
+    400020: Podest
+    400022: Podloga
+    400024: Sciana_Lewa
+    400026: Sciana_Prawa
+    400028: Stolik_Podstawa
+    2300000: Drzwi
+    2300002: Framuga
+    2300004: Kanapa_Poduszka_2_2
+    2300006: Kanapa_Poduszka_2_2_001
+    2300008: Konsoleta
+    2300010: Kula_Dyskotekowa
+    2300012: Kula_Dyskotekowa_Lina
+    2300014: Okno
+    2300016: Okno_Szyba
+    2300018: Podest
+    2300020: Podloga
+    2300022: Sciana_Lewa
+    2300024: Sciana_Prawa
+    2300026: Stolik_Podstawa
+    3300000: Drzwi
+    3300002: Framuga
+    3300004: Kanapa_Poduszka_2_2
+    3300006: Kanapa_Poduszka_2_2_001
+    3300008: Konsoleta
+    3300010: Kula_Dyskotekowa
+    3300012: Kula_Dyskotekowa_Lina
+    3300014: Okno
+    3300016: Okno_Szyba
+    3300018: Podest
+    3300020: Podloga
+    3300022: Sciana_Lewa
+    3300024: Sciana_Prawa
+    3300026: Stolik_Podstawa
+    4300000: Kanapa_Poduszka_2_2_001
+    4300002: Drzwi
+    4300004: Podest
+    4300006: Okno
+    4300008: Okno_Szyba
+    4300010: Sciana_Prawa
+    4300012: Kanapa_Poduszka_2_2
+    4300014: Sciana_Lewa
+    4300016: Framuga
+    4300018: Podloga
+    4300020: Kula_Dyskotekowa_Lina
+    4300022: Stolik_Podstawa
+    4300024: Kula_Dyskotekowa
+    4300026: Konsoleta
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
